@@ -1,0 +1,20 @@
+{
+  "name": "spring4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "sass": "sass --watch src/sass/style.scss:src/css/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.80.6",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
